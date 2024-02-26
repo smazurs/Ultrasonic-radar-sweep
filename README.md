@@ -20,8 +20,6 @@ Connect the components as follows:
 - Connect the servo motor to the designated servo pins on the Arduino.
 - Connect the VCC, GND, Trig, and Echo pins of the ultrasonic sensor to the Arduino.
 
-For a more detailed wiring diagram, refer to the `wiring_diagram.png` file in the repository.
-
 ## Getting Started
 
 1. Clone this repository:
